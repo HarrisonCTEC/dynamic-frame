@@ -21,6 +21,7 @@ public class Frame extends JFrame
 	private void setupFrame()
 	{
 		this.setSize(1024, 768);
+		this.setContentPane(basePanel);
 		this.setVisible(true);
 	}
 }
