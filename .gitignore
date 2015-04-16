@@ -1,0 +1,16 @@
+# whitelist
+
+*
+!**/
+!.gitignore
+
+
+# Project Specific
+
+!**/*.md
+!**/*.java
+!.classpath
+!.project
+!.travis.yml
+!build.xml
+!ivy.xml
